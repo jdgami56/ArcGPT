@@ -40,8 +40,8 @@ Provide your architecture description, and the system will generate a diagram au
 
 For more information about description follow Example_Description.txt file
 ## Output
-(https://github.com/jdgami56/ArcGPT/blob/490cf6f1bedc0aa91be2bf74a5c9c7722c0a9ac0/images/cloud_architecture_1740537171.png)
-(https://github.com/jdgami56/ArcGPT/blob/490cf6f1bedc0aa91be2bf74a5c9c7722c0a9ac0/images/cloud_architecture_1740537254.png)
+![cloud_architecture_1740537254](https://github.com/user-attachments/assets/e7188e7e-0825-46e5-9948-8e6188a51f2e)
+![cloud_architecture_1740537171](https://github.com/user-attachments/assets/47fcbf75-2e86-4f6f-9a46-30ef7e5d84a4)
 
 
 ## License
