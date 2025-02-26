@@ -40,8 +40,8 @@ Provide your architecture description, and the system will generate a diagram au
 
 For more information about description follow Example_Description.txt file
 ## Output
-![Architecture Diagram](images\cloud_architecture_1740537171.png)
-![Architecture Diagram](images\cloud_architecture_1740537254.png)
+images\cloud_architecture_1740537171.png
+images\cloud_architecture_1740537254.png
 
 
 ## License
